@@ -1,1 +1,5 @@
-# charlie_daniel_name_cleanup
+# Charlie Daniel Name Cleanup
+
+---
+
+Includes metadata and remediation files
