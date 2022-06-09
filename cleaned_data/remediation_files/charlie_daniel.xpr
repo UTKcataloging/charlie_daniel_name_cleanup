@@ -51,7 +51,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/nameFix.xsl</String>
+                                    <String>${pdu}/dateCreatedFix.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -120,6 +120,7 @@
     <projectTree name="charlie_daniel.xpr">
         <folder path="../modsxml/"/>
         <folder path="."/>
+        <file name="dateCreatedFix.xsl"/>
         <file name="nameFix.xsl"/>
     </projectTree>
 </project>
